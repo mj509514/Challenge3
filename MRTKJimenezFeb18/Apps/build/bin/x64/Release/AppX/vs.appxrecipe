@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-OJHLAQP</Machine>
+    <WindowsUser>Marco</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>e5cc90cd-f77d-4ae2-8e51-c5f5f5df7bb2</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Jimenez at OU</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\Music\Challenge3\MRTKJimenezFeb18\Apps\build\obj\Jimenez Challenge 3 VR Maze\x64\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>D:\Music\Challenge3\MRTKJimenezFeb18\Apps\build\bin\x64\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>C4B4F6F396B40E230988CD0970450920A3C09E4C50CC1C7F5A42AF2B403BE445</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>Template3D_1.0.0.0_x64__dhgz0ztv1jfda</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>Template3D_dhgz0ztv1jfda!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>Template3D</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Jimenez at OU</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\build\bin\x64\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-03-01T18:53:20.952</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\build\bin\x64\Release\Jimenez Challenge 3 VR Maze.exe">
+      <PackagePath>Jimenez Challenge 3 VR Maze.exe</PackagePath>
+      <Modified>2020-03-01T18:53:14.527</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Program Files\Unity\Editor\2019.3.0f5\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\il2cpp\x64\Release\UnityPlayer.winmd">
+      <PackagePath>UnityPlayer.winmd</PackagePath>
+      <Modified>2020-01-09T17:59:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Program Files\Unity\Editor\2019.3.0f5\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\il2cpp\x64\Release\UnityPlayer.dll">
+      <PackagePath>UnityPlayer.dll</PackagePath>
+      <Modified>2020-01-09T17:59:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\build\bin\x64\Release\Jimenez_Challenge_3_VR_Maze.winmd">
+      <PackagePath>Jimenez_Challenge_3_VR_Maze.winmd</PackagePath>
+      <Modified>2020-03-01T18:53:14.195</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-09T17:06:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-09T17:06:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-09T17:06:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Assets\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-09T17:06:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-09T17:06:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-09T17:06:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-09T17:06:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\StoreManifest.xml">
+      <PackagePath>StoreManifest.xml</PackagePath>
+      <Modified>2020-03-01T17:26:09.263</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Data\il2cpp_data\etc\mono\mconfig\config.xml">
+      <PackagePath>Data\il2cpp_data\etc\mono\mconfig\config.xml</PackagePath>
+      <Modified>2020-01-09T17:03:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Data\boot.config">
+      <PackagePath>Data\boot.config</PackagePath>
+      <Modified>2020-03-01T17:25:54.400</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Data\il2cpp_data\etc\mono\2.0\machine.config">
+      <PackagePath>Data\il2cpp_data\etc\mono\2.0\machine.config</PackagePath>
+      <Modified>2020-01-09T17:03:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Data\il2cpp_data\etc\mono\2.0\web.config">
+      <PackagePath>Data\il2cpp_data\etc\mono\2.0\web.config</PackagePath>
+      <Modified>2020-01-09T17:03:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Data\il2cpp_data\etc\mono\4.0\machine.config">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.0\machine.config</PackagePath>
+      <Modified>2020-01-09T17:03:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Data\il2cpp_data\etc\mono\4.0\web.config">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.0\web.config</PackagePath>
+      <Modified>2020-01-09T17:03:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Data\il2cpp_data\etc\mono\4.5\machine.config">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.5\machine.config</PackagePath>
+      <Modified>2020-01-09T17:03:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Data\il2cpp_data\etc\mono\4.5\web.config">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.5\web.config</PackagePath>
+      <Modified>2020-01-09T17:03:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Data\globalgamemanagers">
+      <PackagePath>Data\globalgamemanagers</PackagePath>
+      <Modified>2020-03-01T17:24:09.378</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Data\level0">
+      <PackagePath>Data\level0</PackagePath>
+      <Modified>2020-03-01T17:24:04.272</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Data\il2cpp_data\etc\mono\config">
+      <PackagePath>Data\il2cpp_data\etc\mono\config</PackagePath>
+      <Modified>2020-01-09T17:03:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Data\Resources\unity default resources">
+      <PackagePath>Data\Resources\unity default resources</PackagePath>
+      <Modified>2020-01-09T17:06:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Data\Resources\unity_builtin_extra">
+      <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
+      <Modified>2020-03-01T17:25:54.178</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Data\globalgamemanagers.assets">
+      <PackagePath>Data\globalgamemanagers.assets</PackagePath>
+      <Modified>2020-03-01T17:24:09.616</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Data\resources.assets">
+      <PackagePath>Data\resources.assets</PackagePath>
+      <Modified>2020-03-01T17:24:09.660</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Data\sharedassets0.assets">
+      <PackagePath>Data\sharedassets0.assets</PackagePath>
+      <Modified>2020-03-01T17:25:10.246</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Data\nativePlugins.txt">
+      <PackagePath>Data\nativePlugins.txt</PackagePath>
+      <Modified>2020-03-01T17:28:58.329</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Data\sharedassets0.assets.resS">
+      <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
+      <Modified>2020-03-01T17:25:10.219</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Data\il2cpp_data\etc\mono\browscap.ini">
+      <PackagePath>Data\il2cpp_data\etc\mono\browscap.ini</PackagePath>
+      <Modified>2020-01-09T17:03:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Data\il2cpp_data\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx">
+      <PackagePath>Data\il2cpp_data\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx</PackagePath>
+      <Modified>2020-01-09T17:03:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Data\il2cpp_data\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx</PackagePath>
+      <Modified>2020-01-09T17:03:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Data\il2cpp_data\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx</PackagePath>
+      <Modified>2020-01-09T17:03:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Data\il2cpp_data\etc\mono\2.0\settings.map">
+      <PackagePath>Data\il2cpp_data\etc\mono\2.0\settings.map</PackagePath>
+      <Modified>2020-01-09T17:03:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Data\il2cpp_data\etc\mono\4.0\settings.map">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.0\settings.map</PackagePath>
+      <Modified>2020-01-09T17:03:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Data\il2cpp_data\etc\mono\4.5\settings.map">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.5\settings.map</PackagePath>
+      <Modified>2020-01-09T17:03:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Data\il2cpp_data\etc\mono\2.0\Browsers\Compat.browser">
+      <PackagePath>Data\il2cpp_data\etc\mono\2.0\Browsers\Compat.browser</PackagePath>
+      <Modified>2020-01-09T17:03:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Data\il2cpp_data\etc\mono\4.0\Browsers\Compat.browser">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.0\Browsers\Compat.browser</PackagePath>
+      <Modified>2020-01-09T17:03:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Data\il2cpp_data\etc\mono\4.5\Browsers\Compat.browser">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.5\Browsers\Compat.browser</PackagePath>
+      <Modified>2020-01-09T17:03:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Data\il2cpp_data\Metadata\global-metadata.dat">
+      <PackagePath>Data\il2cpp_data\Metadata\global-metadata.dat</PackagePath>
+      <Modified>2020-03-01T17:28:18.114</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Data\il2cpp_data\Resources\I18N.CJK.dll-resources.dat">
+      <PackagePath>Data\il2cpp_data\Resources\I18N.CJK.dll-resources.dat</PackagePath>
+      <Modified>2020-03-01T17:26:43.783</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\Data\il2cpp_data\Resources\mscorlib.dll-resources.dat">
+      <PackagePath>Data\il2cpp_data\Resources\mscorlib.dll-resources.dat</PackagePath>
+      <Modified>2020-03-01T17:26:43.776</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Jimenez Challenge 3 VR Maze\AudioPluginMsHRTF.dll">
+      <PackagePath>AudioPluginMsHRTF.dll</PackagePath>
+      <Modified>2020-01-08T05:08:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\build\bin\x64\Release\GameAssembly.dll">
+      <PackagePath>GameAssembly.dll</PackagePath>
+      <Modified>2020-03-01T17:44:13.649</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Program Files\Unity\Editor\2019.3.0f5\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\il2cpp\x64\Release\WinPixEventRuntime_UAP.dll">
+      <PackagePath>WinPixEventRuntime_UAP.dll</PackagePath>
+      <Modified>2020-01-09T17:59:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Music\Challenge3\MRTKJimenezFeb18\Apps\build\bin\x64\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2020-03-01T18:53:19.484</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.27323.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.27323.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM64\Microsoft.VCLibs.ARM64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.27323.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.27323.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,7 @@
+#include "il2cpp-config.h"
+#include "D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\mono\MonoPosixHelper.cpp"
+#include "D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\mono\ThreadPool\ThreadPoolMonitorThread.cpp"
+#include "D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\mono\ThreadPool\ThreadPoolWorkerThread.cpp"
+#include "D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\mono\ThreadPool\threadpool-ms-io-poll.cpp"
+#include "D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\mono\ThreadPool\threadpool-ms-io.cpp"
+#include "D:\Music\Challenge3\MRTKJimenezFeb18\Apps\Il2CppOutputProject\IL2CPP\libil2cpp\mono\ThreadPool\threadpool-ms.cpp"
